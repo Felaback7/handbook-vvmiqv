@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Felaback7.github.io/handbook-vvmiqv/sitemap.xml
